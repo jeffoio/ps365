@@ -51,17 +51,27 @@
 |            |     [비밀번호 발음하기](./baekjoon/0325_boj_4659.swift)      | 구현, 문자열             |
 |            |       [피보나치 함수](./baekjoon/0325_boj_1003.swift)        | DP                       |
 |            |       [비밀번호 찾기](./baekjoon/0325_boj_17219.swift)       | 해시                     |
-|            |         [N과 M (2)](./baekjoon/0325_boj_17219.swift)         | 백트래킹                 |
+|            |         [N과 M (2)](./baekjoon/0325_boj_15650.swift)         | 백트래킹                 |
 |   03.26    |        [기상캐스터](./baekjoon/0326_boj_10709.swift)         | 구현                     |
 |            |           [올림픽](./baekjoon/0326_boj_8979.swift)           | 정렬                     |
 |   03.27    |      [요세푸스 문제 0](./baekjoon/0327_boj_11866.swift)      | 자료구조                 |
 |   03.28    |        [영화감독 숌](./baekjoon/0328_boj_1436.swift)         | 브루트포스               |
 |   03.29    |          [카드게임](./baekjoon/0329_boj_2621.swift)          | 구현                     |
 |            | [나는야 포켓몬 마스터 이다솜](./baekjoon/0329_boj_1620.swift) | 해시                     |
-|            |      [팰린드롬 만들기](./baekjoon/0329_boj_1620.swift)       | 구현, 문자열             |
+|            |      [팰린드롬 만들기](./baekjoon/0329_boj_1213.swift)       | 구현, 문자열             |
 |            |            [주몽](./baekjoon/0329_boj_1940.swift)            | 정렬, 투포인터           |
 |            |         [좋은 단어](./baekjoon/0329_boj_3986.swift)          | 자료구조, 스택           |
 |            |       [교수가 된 현우](./baekjoon/0329_boj_3474.swift)       | 수학                     |
+|   03.30    | [한국이 그리울 땐 서버에 접속하지](./baekjoon/0330_boj_9996.swift) | 브루트포스               |
+|            |         [빈도 정렬](./baekjoon/0330_boj_2910.swift)          | 정렬, 맵                 |
+|            |          [NBA 농구](./baekjoon/0330_boj_2852.swift)          | 문자열                   |
+|            |       [스타트와 링크](./baekjoon/0330_boj_14889.swift)       | 브루트포스, 백트래킹     |
+|            |     [구간 합 구하기 4](./baekjoon/0330_boj_11659.swift)      | 누적합                   |
+|            |                                                              |                          |
+|            |                                                              |                          |
+|            |                                                              |                          |
+|            |                                                              |                          |
+|            |                                                              |                          |
 |            |                                                              |                          |
 
 
