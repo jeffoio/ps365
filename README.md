@@ -68,8 +68,18 @@
 |            |          [스타트와 링크](./baekjoon/14889.swift)          | 브루트포스, 백트래킹     |
 |            |        [구간 합 구하기 4](./baekjoon/11659.swift)         | 누적합                   |
 |   03.31    |            [N과 M (1)](./baekjoon/15649.swift)            | 백트래킹                 |
-|            |                                                           |                          |
-|            |                                                           |                          |
+|   04.01    |             [N-Queen](./baekjoon/9663.swift)              | 백트래킹                 |
+|   04.02    |          [부분수열의 합](./baekjoon/1182.swift)           | 백트래킹                 |
+|            |               [로또](./baekjoon/6603.swift)               | 백트래킹                 |
+|            |            [N과 M (3)](./baekjoon/15651.swift)            | 백트래킹                 |
+|            |            [N과 M (4)](./baekjoon/15652.swift)            | 백트래킹                 |
+|            |              [부등호](./baekjoon/2529.swift)              | 백트래킹                 |
+|            |            [N과 M (5)](./baekjoon/15654.swift)            | 백트래킹                 |
+|            |            [N과 M (6)](./baekjoon/15655.swift)            | 백트래킹                 |
+|            |            [N과 M (7)](./baekjoon/15656.swift)            | 백트래킹                 |
+|            |            [N과 M (8)](./baekjoon/15657.swift)            | 백트래킹                 |
+|            |          [완전 이진 트리](./baekjoon/9934.swift)          | 트리                     |
+|   04.03    |           [수들의 합 2](./baekjoon/2003.swift)            | 투포인터                 |
 |            |                                                           |                          |
 |            |                                                           |                          |
 |            |                                                           |                          |
