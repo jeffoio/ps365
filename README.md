@@ -80,11 +80,28 @@
 |            |            [N과 M (8)](./baekjoon/15657.swift)            | 백트래킹                 |
 |            |          [완전 이진 트리](./baekjoon/9934.swift)          | 트리                     |
 |   04.03    |           [수들의 합 2](./baekjoon/2003.swift)            | 투포인터                 |
-|            |          [조합 0의 개수](./baekjoon/2004.swift)           | 정수론                   |
+|   04.04    |          [조합 0의 개수](./baekjoon/2004.swift)           | 정수론                   |
+|   04.05    |            [섬의 개수](./baekjoon/4963.swift)             | DFS                      |
+|            |        [연결 요소의 개수](./baekjoon/11724.swift)         | BFS                      |
+|   04.06    |            [모든 순열](./baekjoon/10974.swift)            | 백트래킹                 |
+|            |            [다음 순열](./baekjoon/10972.swift)            | 조합론                   |
+|            |            [이전 순열](./baekjoon/10973.swift)            | 수학                     |
+|            |            [Two Sum](./leetcode/Two Sum.swift)            | 브루트포스               |
+|   04.07    |     [Add Two Numbers](./leetcode/AddTwoNumbers.swift)     | 구현                     |
+|            |          [수빈이와 수열](./baekjoon/10539.swift)          | 수학                     |
+|            |           [보너스 점수](./baekjoon/17389.swift)           | 구현                     |
+|            |              [블랙잭](./baekjoon/2798.swift)              | 조합                     |
+|            |         [이름궁합 테스트](./baekjoon/17269.swift)         | 구현                     |
 |            |                                                           |                          |
 |            |                                                           |                          |
-
-
+|            |                                                           |                          |
+|            |                                                           |                          |
+|            |                                                           |                          |
+|            |                                                           |                          |
+|            |                                                           |                          |
+|            |                                                           |                          |
+|            |                                                           |                          |
+|            |                                                           |                          |
 
 
 
