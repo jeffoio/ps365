@@ -86,7 +86,7 @@
 |   04.06    |            [모든 순열](./baekjoon/10974.swift)            | 백트래킹                 |
 |            |            [다음 순열](./baekjoon/10972.swift)            | 조합론                   |
 |            |            [이전 순열](./baekjoon/10973.swift)            | 수학                     |
-|            |            [Two Sum](./leetcode/Two Sum.swift)            | 브루트포스               |
+|            |            [Two Sum](./leetcode/TwoSum.swift)             | 브루트포스               |
 |   04.07    |     [Add Two Numbers](./leetcode/AddTwoNumbers.swift)     | 구현                     |
 |            |          [수빈이와 수열](./baekjoon/10539.swift)          | 수학                     |
 |            |           [보너스 점수](./baekjoon/17389.swift)           | 구현                     |
