@@ -95,10 +95,10 @@
 |   04.08    |           [나이순 정렬](./baekjoon/10814.swift)           | 정렬                     |
 |            |          [수 정렬하기 3](./baekjoon/10814.swift)          | 정렬                     |
 |            |           [이장님 초대](./baekjoon/9237.swift)            | 정렬                     |
-|            |                                                           |                          |
-|            |                                                           |                          |
-|            |                                                           |                          |
-|            |                                                           |                          |
+|   04.09    |          [The candy war](./baekjoon/9037.swift)           | 구현                     |
+|            |               [판화](./baekjoon/1730.swift)               | 구현                     |
+|   04.10    |             [수 찾기](./baekjoon/1920.swift)              | 탐색                     |
+|   04.11    |              [참외밭](./baekjoon/2477.swift)              | 구현                     |
 |            |                                                           |                          |
 |            |                                                           |                          |
 |            |                                                           |                          |
