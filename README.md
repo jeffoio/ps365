@@ -103,17 +103,27 @@
 
 
 
-| 날짜  |    플랫폼    |                            문제                            |   유형   |
-| :---: | :----------: | :--------------------------------------------------------: | :------: |
-| 04.13 | 프로그래머스 | [두개 뽑아서 더하기](./programmers/두개뽑아서더하기.swift) |   구현   |
-|       |   LeetCode   |     [Keys and Rooms](./leetcode/Keys_and_Rooms.swift)      |   DFS    |
-|       |   LeetCode   |        [Word Search](./leetcode/Word_Search.swift)         | 백트래킹 |
-|       |     백준     |               [퇴사](./baekjoon/14501.swift)               |   DFS    |
-|       |              |                                                            |          |
-|       |              |                                                            |          |
-|       |              |                                                            |          |
-|       |              |                                                            |          |
-|       |              |                                                            |          |
+| 날짜  |    플랫폼    |                            문제                             |    유형    |
+| :---: | :----------: | :---------------------------------------------------------: | :--------: |
+| 04.13 | 프로그래머스 | [두개 뽑아서 더하기](./programmers/두개뽑아서더하기.swift)  |    구현    |
+|       |   LeetCode   |      [Keys and Rooms](./leetcode/Keys_and_Rooms.swift)      |    DFS     |
+|       |   LeetCode   |         [Word Search](./leetcode/Word_Search.swift)         |  백트래킹  |
+| 04.14 |     백준     |               [퇴사](./baekjoon/14501.swift)                |    DFS     |
+| 04.15 | 프로그래머스 |     [키패드 누르기](./programmers/키패드_누르기.swift)      |    구현    |
+|       |     백준     |          [좌표 정렬하기 2](./baekjoon/11651.swift)          |    정렬    |
+|       |     백준     |                [한수](./baekjoon/1065.swift)                | 브루트포스 |
+| 04.16 |     백준     |            [집합의 표현](./baekjoon/1717.swift)             | Union-Find |
+| 04.17 |     백준     | [여러분의 다리가 되어 드리겠습니다!](./baekjoon/1717.swift) | Union-Find |
+| 04.18 |     백준     |             [여행 가자](./baekjoon/1976.swift)              | Union-Find |
+|       |              |            [죽음의 게임](./baekjoon/17204.swift)            |    구현    |
+|       |              |                                                             |            |
+|       |              |                                                             |            |
+|       |              |                                                             |            |
+|       |              |                                                             |            |
+|       |              |                                                             |            |
+|       |              |                                                             |            |
+|       |              |                                                             |            |
+|       |              |                                                             |            |
 
 
 
