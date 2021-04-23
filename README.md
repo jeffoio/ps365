@@ -103,33 +103,43 @@
 
 
 
-| 날짜  |    플랫폼    |                            문제                             |    유형    |
-| :---: | :----------: | :---------------------------------------------------------: | :--------: |
-| 04.13 | 프로그래머스 | [두개 뽑아서 더하기](./programmers/두개뽑아서더하기.swift)  |    구현    |
-|       |   LeetCode   |      [Keys and Rooms](./leetcode/Keys_and_Rooms.swift)      |    DFS     |
-|       |   LeetCode   |         [Word Search](./leetcode/Word_Search.swift)         |  백트래킹  |
-| 04.14 |     백준     |               [퇴사](./baekjoon/14501.swift)                |    DFS     |
-| 04.15 | 프로그래머스 |     [키패드 누르기](./programmers/키패드_누르기.swift)      |    구현    |
-|       |     백준     |          [좌표 정렬하기 2](./baekjoon/11651.swift)          |    정렬    |
-|       |     백준     |                [한수](./baekjoon/1065.swift)                | 브루트포스 |
-| 04.16 |     백준     |            [집합의 표현](./baekjoon/1717.swift)             | Union-Find |
-| 04.17 |     백준     | [여러분의 다리가 되어 드리겠습니다!](./baekjoon/1717.swift) | Union-Find |
-| 04.18 |     백준     |             [여행 가자](./baekjoon/1976.swift)              | Union-Find |
-|       |              |            [죽음의 게임](./baekjoon/17204.swift)            |    구현    |
-| 04.19 |     백준     |               [꽃길](./baekjoon/14620.swift)                |  백트래킹  |
-| 04.20 |     백준     |           [차이를 최대로](./baekjoon/10819.swift)           | 브루트포스 |
-|       |     백준     |           [외판원 순회 2](./baekjoon/10971.swift)           |  백트래킹  |
-|       |     백준     |               [연속합](./baekjoon/1912.swift)               |   누적합   |
-|       |              |                                                             |            |
-|       |              |                                                             |            |
-|       |              |                                                             |            |
-|       |              |                                                             |            |
-
-
+| 날짜  |    플랫폼    |                             문제                             |    유형    |
+| :---: | :----------: | :----------------------------------------------------------: | :--------: |
+| 04.13 | 프로그래머스 |  [두개 뽑아서 더하기](./programmers/두개뽑아서더하기.swift)  |    구현    |
+|       |   LeetCode   |      [Keys and Rooms](./leetcode/Keys_and_Rooms.swift)       |    DFS     |
+|       |   LeetCode   |         [Word Search](./leetcode/Word_Search.swift)          |  백트래킹  |
+| 04.14 |     백준     |                [퇴사](./baekjoon/14501.swift)                |    DFS     |
+| 04.15 | 프로그래머스 |      [키패드 누르기](./programmers/키패드_누르기.swift)      |    구현    |
+|       |     백준     |          [좌표 정렬하기 2](./baekjoon/11651.swift)           |    정렬    |
+|       |     백준     |                [한수](./baekjoon/1065.swift)                 | 브루트포스 |
+| 04.16 |     백준     |             [집합의 표현](./baekjoon/1717.swift)             | Union-Find |
+| 04.17 |     백준     | [여러분의 다리가 되어 드리겠습니다!](./baekjoon/17352.swift) | Union-Find |
+| 04.18 |     백준     |              [여행 가자](./baekjoon/1976.swift)              | Union-Find |
+|       |              |            [죽음의 게임](./baekjoon/17204.swift)             |    구현    |
+| 04.19 |     백준     |                [꽃길](./baekjoon/14620.swift)                |  백트래킹  |
+| 04.20 |     백준     |           [차이를 최대로](./baekjoon/10819.swift)            | 브루트포스 |
+|       |     백준     |           [외판원 순회 2](./baekjoon/10971.swift)            |  백트래킹  |
+|       |     백준     |               [연속합](./baekjoon/1912.swift)                |   누적합   |
+| 04.21 |     백준     |            [흙길 보수하기](./baekjoon/1911.swift)            |    구현    |
+|       |     백준     |                [안녕](./baekjoon/1535.swift)                 | 브루트포스 |
+| 04.22 |   LeetCode   |   [Valid Parentheses](./leetcode/Valid_Parentheses.swift)    |  자료구조  |
+|       |   LeetCode   |    [Maximum Subarray](./leetcode/Maximum_Subarray.swift)     |   누적합   |
+|       |   LeetCode   |       [Single Number](./leetcode/Single_Number.swift)        |  자료구조  |
+| 04.23 | 프로그래머스 |          [보석 쇼핑](./programmers/보석_쇼핑.swift)          |  투포인터  |
+|       | 프로그래머스 |        [경주로 건설](./programmers/경주로_건설.swift)        |    BFS     |
+|       | 프로그래머스 |        [불량 사용자](./programmers/불량_사용자.swift)        |    DFS     |
+|       |              |                                                              |            |
+|       |              |                                                              |            |
+|       |              |                                                              |            |
+|       |              |                                                              |            |
+|       |              |                                                              |            |
+|       |              |                                                              |            |
 
 ### 문제
 
 [자가비님 추천문제](https://www.acmicpc.net/workbook/view/4344)
 
 [완전탐색 모음집](https://www.acmicpc.net/workbook/view/7387)
+
+[LeetCode Top 100](https://leetcode.com/problemset/top-100-liked-questions/)
 
