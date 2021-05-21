@@ -147,6 +147,16 @@
 |       | 프로그래머스 |       [호텔 방 배정](./programmers/호텔_방_배정.swift)       |  자료구조  |
 | 05.07 | 프로그래머스 |       [가장 먼 노드](./programmers/가장_먼_노드.swift)       |    BFS     |
 |       | 프로그래머스 |    [디스크 컨트롤러](./programmers/디스크_컨트롤러.swift)    |  자료구조  |
+| 05.08 |     백준     |         [그대, 그머가 되어](./baekjoon/14496.swift)          | 다익스트라 |
+| 05.09 |     백준     |                [ATM](./baekjoon/11300.swift)                 |    정렬    |
+| 05.10 |     백준     |            [균형잡힌 세상](./baekjoon/4949.swift)            |  자료구조  |
+| 05.11 |     백준     |              [분수찾기](./baekjoon/1193.swift)               |    구현    |
+| 05.13 |     백준     |            [이진수 연산](./baekjoon/12813.swift)             |   문자열   |
+| 05.21 |     백준     |                 [불!](./baekjoon/4179.swift)                 |    BFS     |
+|       |     백준     |             [두 수의 합](./baekjoon/3273.swift)              |  자료구조  |
+|       |     백준     |           [수 정렬하기 4](./baekjoon/11931.swift)            |    정렬    |
+|       |     백준     |           [수 정렬하기 5](./baekjoon/15688.swift)            |    정렬    |
+|       |     백준     |                 [큐 2](./baekjoon/18258.py)                  |  자료구조  |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
@@ -164,4 +174,6 @@
 [완전탐색 모음집](https://www.acmicpc.net/workbook/view/7387)
 
 [LeetCode Top 100](https://leetcode.com/problemset/top-100-liked-questions/)
+
+[바킹독 추천문제](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
