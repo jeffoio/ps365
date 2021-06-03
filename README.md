@@ -163,7 +163,7 @@
 | 06.02 |     백준     |             [회전하는 큐](./baekjoon/1021.swift)             |  자료구조  |
 |       |     백준     |                 [AC](./baekjoon/5430.swift)                  |     덱     |
 | 06.03 |     백준     |                [그림](./baekjoon/1926.swift)                 |    BFS     |
-|       |              |                                                              |            |
+|       |     백준     |              [미로 탐색](./baekjoon/2178.swift)              |    BFS     |
 
 
 
