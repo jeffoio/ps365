@@ -168,7 +168,7 @@
 | 06.07 |     백준     |              [숨바꼭질](./baekjoon/1697.swift)               |    BFS     |
 |       |     백준     |             [숨바꼭질 2](./baekjoon/12851.swift)             |    BFS     |
 | 06.10 |     백준     |              [상범 빌딩](./baekjoon/6593.swift)              |    BFS     |
-|       |              |                                                              |            |
+| 06.11 |     백준     |                 [불](./baekjoon/5427.swift)                  |    BFS     |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
