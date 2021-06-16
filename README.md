@@ -169,8 +169,8 @@
 |       |     백준     |             [숨바꼭질 2](./baekjoon/12851.swift)             |    BFS     |
 | 06.10 |     백준     |              [상범 빌딩](./baekjoon/6593.swift)              |    BFS     |
 | 06.11 |     백준     |                 [불](./baekjoon/5427.swift)                  |    BFS     |
-|       |              |                                                              |            |
-|       |              |                                                              |            |
+| 06.15 |     백준     |             [템 프로젝트](./baekjoon/9466.swift)             |    BFS     |
+| 06.16 |     백준     |         [벽 부수고 이동하기](./baekjoon/2206.swift)          |    BFS     |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
