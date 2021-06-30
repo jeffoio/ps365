@@ -181,8 +181,8 @@
 | 06.29 |     백준     |             [1로 만들기](./baekjoon/1463.swift)              |    BFS     |
 |       |     백준     |             [계단 오르기](./baekjoon/2579.swift)             |     DP     |
 | 06.30 |     백준     |               [RGB거리](./baekjoon/1149.swift)               |     DP     |
-|       |              |                                                              |            |
-|       |              |                                                              |            |
+|       |     백준     |             [2×n 타일링](./baekjoon/11726.swift)             |     DP     |
+|       |     백준     |            [1로 만들기 2](./baekjoon/12852.swift)            |     DP     |
 |       |              |                                                              |            |
 
 

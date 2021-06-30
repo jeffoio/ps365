@@ -42,3 +42,27 @@ for i in 0...n {
 
 print(cur[n].count-1)
 print(cur[n].map{String($0)}.joined(separator: " "))
+
+
+// 0630
+let n = Int(readLine()!)!
+var dp = Array(repeating: Array(repeating: 0, count: 1), count: n+1)
+dp[1] = [1]
+
+for i in 1...n {
+    if i == 1 { continue }
+    dp[i] = dp[i-1] + [i]
+    
+    if i%3 == 0, dp[i].count > dp[i/3].count+1 {
+        dp[i] = dp[i/3] + [i]
+    }
+    
+    if i%2 == 0, dp[i].count > dp[i/2].count+1 {
+        dp[i] = dp[i/2] + [i]
+    }
+    
+}
+
+print(dp[n].count-1)
+print(dp[n].reversed().map{String($0)}.joined(separator: " "))
+
