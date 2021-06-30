@@ -32,3 +32,15 @@ func tile(num: Int) -> Int {
     return d[num] % 10007
 }
 
+let n = Int(readLine()!)!
+var d = Array(repeating: 0, count: n+1)
+
+for i in 1...n {
+    if i <= 2 {
+        d[i] = i
+    } else {
+        d[i] = (d[i-1] + d[i-2]) % 10007
+    }
+}
+
+print(d[n])
