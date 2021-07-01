@@ -183,7 +183,7 @@
 | 06.30 |     백준     |               [RGB거리](./baekjoon/1149.swift)               |     DP     |
 |       |     백준     |             [2×n 타일링](./baekjoon/11726.swift)             |     DP     |
 |       |     백준     |            [1로 만들기 2](./baekjoon/12852.swift)            |     DP     |
-|       |              |                                                              |            |
+| 07.01 |  HackerRank  |    [Repeated String](./hackerrank/Repeated_String.swift)     |    구현    |
 
 
 
@@ -196,4 +196,6 @@
 [LeetCode Top 100](https://leetcode.com/problemset/top-100-liked-questions/)
 
 [바킹독 추천문제](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+
+[HackerRank 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
