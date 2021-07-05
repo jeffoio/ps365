@@ -185,8 +185,8 @@
 |       |     백준     |            [1로 만들기 2](./baekjoon/12852.swift)            |     DP     |
 | 07.01 |  HackerRank  |    [Repeated String](./hackerrank/Repeated_String.swift)     |    구현    |
 | 07.02 |     백준     |          [구간 합 구하기 5](./baekjoon/11660.swift)          |     DP     |
-|       |              |                                                              |            |
-|       |              |                                                              |            |
+|       |     백준     |             [정수 삼각형](./baekjoon/1932.swift)             |     DP     |
+| 07.05 |  HackerRank  |      [Left Rotation](./hackerrank/Left_Rotation.swift)       |  자료구조  |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
