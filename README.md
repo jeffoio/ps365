@@ -187,7 +187,7 @@
 | 07.02 |     백준     |          [구간 합 구하기 5](./baekjoon/11660.swift)          |     DP     |
 |       |     백준     |             [정수 삼각형](./baekjoon/1932.swift)             |     DP     |
 | 07.05 |  HackerRank  |      [Left Rotation](./hackerrank/Left_Rotation.swift)       |  자료구조  |
-|       |              |                                                              |            |
+| 07.09 | 프로그래머스 | [숫자 문자열과 영단어](./programmers/숫자_문자열과_영단어.swift) |   문자열   |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
 |       |              |                                                              |            |
