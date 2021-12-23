@@ -193,10 +193,10 @@
 | 09.29 | 프로그래머스 |          [입실 퇴실](./programmers/입실_퇴실.swift)          |   투포인터   |
 | 09.30 | 프로그래머스 |       [최소직사각형](./programmers/최소직사각형.swift)       |     구현     |
 |       |              |      [복서 정렬하기](./programmers/복서_정렬하기.swift)      |     정렬     |
-| 12.21 | 프로그래머스 | [타겟 넘버](./ㅔrogrammers/타겟_넘버.swift) | DFS |
-|  | 프로그래머스 | [네트워크](./ㅔrogrammers/네트워크.swift) | DFS |
-|  | 프로그래머스 | [단어 변환](./ㅔrogrammers/단어_변환.swift) | BFS |
-
+| 12.21 | 프로그래머스 | [타겟 넘버](./programmers/타겟_넘버.swift) | DFS |
+|  | 프로그래머스 | [네트워크](./programmers/네트워크.swift) | DFS |
+|  | 프로그래머스 | [단어 변환](./programmers/단어_변환.swift) | BFS |
+| 12.23 | 프로그래머스 | [내적](./programmers/내적.swift) |  |
 ### 문제
 
 [자가비님 추천문제](https://www.acmicpc.net/workbook/view/4344)
