@@ -197,6 +197,7 @@
 |  | 프로그래머스 | [네트워크](./programmers/네트워크.swift) | DFS |
 |  | 프로그래머스 | [단어 변환](./programmers/단어_변환.swift) | BFS |
 | 12.23 | 프로그래머스 | [내적](./programmers/내적.swift) |  |
+|  | 프로그래머스 | [정수_삼각형](./programmers/정수_삼각형.py) | DP |
 ### 문제
 
 [자가비님 추천문제](https://www.acmicpc.net/workbook/view/4344)
