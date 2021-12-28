@@ -199,6 +199,9 @@
 | 12.23 | 프로그래머스 | [내적](./programmers/내적.swift) |  |
 |  | 프로그래머스 | [정수_삼각형](./programmers/정수_삼각형.py) | DP |
 |  | 프로그래머스 | [등굣길](./programmers/등굣길.py) | DP |
+| 12.24 | 백준 | [이친수](./baekjoon/2193.swift)  | DP |
+| 12.28 | 백준 | [쉬운 계단 수](./baekjoon/10844.swift)  | DP |
+|  | 백준 | [1,2,3 더하기 3](./baekjoon/15988.swift)  | DP |
 
 
 ### 문제
