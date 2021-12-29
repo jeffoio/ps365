@@ -203,7 +203,7 @@
 | 12.28 | 백준 | [쉬운 계단 수](./baekjoon/10844.swift)  | DP |
 |  | 백준 | [1,2,3 더하기 3](./baekjoon/15988.swift)  | DP |
 | 12.29 | 백준 | [극장 좌석](./baekjoon/2302.swift)  | DP |
-
+|  | 백준 | [포도주 시식](./baekjoon/2156.swift)  | DP |
 
 ### 문제
 
