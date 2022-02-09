@@ -204,7 +204,7 @@
 |  | 백준 | [1,2,3 더하기 3](./baekjoon/15988.swift)  | DP |
 | 12.29 | 백준 | [극장 좌석](./baekjoon/2302.swift)  | DP |
 |  | 백준 | [포도주 시식](./baekjoon/2156.swift)  | DP |
-
+| 2022.02.09 | 프로그래머스 | [로또의 최고 순위와 최저 순위](./programmers/로또의_최고_순위와_최저_순위.swift)  | DP |
 ### 문제
 
 [자가비님 추천문제](https://www.acmicpc.net/workbook/view/4344)
