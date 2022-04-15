@@ -1,6 +1,6 @@
 //
 //  Repeated_String.swift
-//  
+//
 //
 //  Created by jeff on 2021/07/01.
 //
@@ -22,7 +22,7 @@ func repeatedString(s: String, n: Int) -> Int {
     for char in s {
         if char == "a" { numberOfa += 1}
     }
-    
+
     numberOfa *= (n/s.count)
     let newStr = Array(s).map{String($0)}[0..<n%s.count]
     for char in newStr {

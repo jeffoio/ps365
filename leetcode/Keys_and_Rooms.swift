@@ -11,7 +11,7 @@ class Solution {
     func canVisitAllRooms(_ rooms: [[Int]]) -> Bool {
         var visited = Array(repeating: false, count: rooms.count)
         visited[0] = true
-        
+
         for startKey in rooms[0] {
             var q = [startKey]
             while !q.isEmpty {
@@ -20,8 +20,7 @@ class Solution {
                 visited[visit] = true
                 q += rooms[visit]
             }
-        }
-   
+
         return visited.filter { $0 != true }.isEmpty
     }
 }
@@ -29,4 +28,3 @@ class Solution {
 var an = Solution()
 print(an.canVisitAllRooms([[1],[2],[3],[]])) //true
 print(an.canVisitAllRooms([[1,3],[3,0,1],[2],[0]]))// false
-

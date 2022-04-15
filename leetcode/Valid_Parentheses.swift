@@ -14,9 +14,9 @@ class Solution {
         let dic = ["}": "{",
                    ")": "(",
                    "]": "["]
-        
+
         for char in str {
-            
+
             if stack.isEmpty {
                 stack.append(char)
                 continue
@@ -32,7 +32,7 @@ class Solution {
                 }
             }
         }
-        
+
         return stack.isEmpty
     }
 }

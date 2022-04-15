@@ -12,12 +12,12 @@ class Solution {
         var top = l1, down = l2
         var head = ListNode(), tail = head
         var carry = 0
-  
+
         while top != nil || down != nil {
             var sum = 0
             sum += top?.val ?? 0
             sum += down?.val ?? 0
-            
+
             if carry != 0 {
                 sum += 1
                 carry = 0
@@ -33,7 +33,7 @@ class Solution {
                 tail.next = ListNode()
                 tail = tail.next!
             }
-        
+
         }
         if carry > 0 {
             tail.next = ListNode(carry)
