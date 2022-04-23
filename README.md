@@ -192,7 +192,7 @@
 | 07.25 | 프로그래머스 |            [표 편집](./programmers/표_편집.swift)            | 링크드리스트 |
 | 09.29 | 프로그래머스 |          [입실 퇴실](./programmers/입실_퇴실.swift)          |   투포인터   |
 | 09.30 | 프로그래머스 |       [최소직사각형](./programmers/최소직사각형.swift)       |     구현     |
-|       |              |      [복서 정렬하기](./programmers/복서_정렬하기.swift)      |     정렬     |
+|       |      프로그래머스        |      [복서 정렬하기](./programmers/복서_정렬하기.swift)      |     정렬     |
 | 12.21 | 프로그래머스 | [타겟 넘버](./programmers/타겟_넘버.swift) | DFS |
 |  | 프로그래머스 | [네트워크](./programmers/네트워크.swift) | DFS |
 |  | 프로그래머스 | [단어 변환](./programmers/단어_변환.swift) | BFS |
@@ -205,15 +205,18 @@
 | 12.29 | 백준 | [극장 좌석](./baekjoon/2302.swift)  | DP |
 |  | 백준 | [포도주 시식](./baekjoon/2156.swift)  | DP |
 | 2022.02.09 | 프로그래머스 | [로또의 최고 순위와 최저 순위](./programmers/로또의_최고_순위와_최저_순위.swift)  | 구현 |
-|       |              |      [없는 숫자 더하기](./programmers/없는_숫자_더하기.swift)      |     구현     |
-|       |              |      [음양 더하기](./programmers/음양_더하기.swift)      |     구현     |
-|       |              |      [약수의 개수와 덧셈](./programmers/약수의_개수와_덧셈.swift)      |     구현     |
+|       |   프로그래머스           |      [없는 숫자 더하기](./programmers/없는_숫자_더하기.swift)      |     구현     |
+|       |      프로그래머스        |      [음양 더하기](./programmers/음양_더하기.swift)      |     구현     |
+|       |        프로그래머스      |      [약수의 개수와 덧셈](./programmers/약수의_개수와_덧셈.swift)      |     구현     |
 | 02.10 | 프로그래머스    |      [신고 결과 받기](./programmers/신고_결과_받기.swift)      |     문자열     |
 |  | 프로그래머스    |      [나머지가 1이 되는 수 찾기](./programmers/나머지가_1이_되는_수_찾기.swift)      |     구현     |
 |  | 프로그래머스    |      [부족한 금액 계산하기](./programmers/부족한_금액_계산하기.swift)      |     구현     |
 | 02.11 | 프로그래머스    |      [실패율](./programmers/실패율.swift)      |     문자열     |
 |       | 백준    |      [팩토리얼 0의 개수](./baekjoon/1676.swift)    |     구현     |
 | 04.15 | LeetCode    |      [Path Sum](./leetcode/Path_Sum.swift)       |     문자열     |
+| 04.21 | LeetCode    |      [Maximum Depth of Binary Tree](./leetcode/Maximum_Depth_of_Binary_Tree.swift)       |     재귀     |
+|  | LeetCode    |      [Kth Smallest Element in a BST](./leetcode/Kth_Smallest_Element_in_a_BST.swift)       |      재귀    |
+|  | LeetCode    |      [Combinations](./leetcode/Combinations.swift)       |    재귀      |
 
 
 ### 문제
@@ -227,4 +230,3 @@
 [바킹독 추천문제](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
 [HackerRank 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-
