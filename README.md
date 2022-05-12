@@ -217,6 +217,7 @@
 | 04.21 | LeetCode    |      [Maximum Depth of Binary Tree](./leetcode/Maximum_Depth_of_Binary_Tree.swift)       |     재귀     |
 |  | LeetCode    |      [Kth Smallest Element in a BST](./leetcode/Kth_Smallest_Element_in_a_BST.swift)       |      재귀    |
 |  | LeetCode    |      [Combinations](./leetcode/Combinations.swift)       |    재귀      |
+| 04.29 | LeetCode    |      [LRU Cache](./leetcode/LRU_Cache.swift)       |     재귀     |
 
 
 ### 문제
